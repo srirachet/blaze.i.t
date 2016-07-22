@@ -1,0 +1,13 @@
+body#Body1{
+    background-color:slategrey;
+    color: black;
+    position:relative;
+    top:center;
+    font-family:"courier";
+    }
+
+body#Body2{
+    position:relative;
+    bottom:-100px;
+    color: white;
+}
